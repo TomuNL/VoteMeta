@@ -1,0 +1,127 @@
+body
+{
+    background-color: #add8e6; /* Bleu clair */
+}
+
+div#logs
+{
+    margin-top: 60px;
+    background-color: #77a7b8;
+    text-align: center;
+
+}
+
+h1#connect
+{
+    
+    margin: auto;
+    width: 50%;
+    border : 4px solid rgba(0, 0, 0, 0.800);
+    padding: 10px;
+    margin-top: 100px;
+    background-color: rgb(111, 185, 157);
+    color: black;
+    text-align: center;
+}
+.form-group
+{
+    margin-top: 40px;
+}
+
+#form-group-validate
+{
+    margin-top: 20px;
+    text-align: right;
+}
+
+div.block
+{
+    display: block;
+    text-align: center;
+}
+.aligner
+{
+    vertical-align: right;
+}
+
+#tableFullPage
+{
+    display: block;
+    text-align: left;
+}
+
+.centrer{
+    text-align : center;
+    align-items: center;
+}
+
+#contents1{
+    margin-top : 5em;
+    margin-left : 5em;
+    margin-right : 5em;
+    padding : 10px;
+}
+
+#contents2{
+    margin-top : 5em;
+    margin-left : 1em;
+    padding : 5px;
+
+}
+
+.buttonDetail{
+    margin-left : 20px;
+
+}
+
+.enLigne{
+    display : flex;
+}
+
+#messageErreur{
+    color: red;
+    padding : 10px;
+}
+
+#infoCreateurScrutin{
+    color: rebeccapurple;
+}
+
+#tableDetailChoix{
+    margin : 1em;
+
+}
+
+td{
+    padding : 10px;
+}
+
+li#listeScrutins{
+    padding : 5px;
+}
+
+progress {
+    background-color : red;
+}
+
+.clore-button{
+    margin-left : 2em;
+    margin-bottom: 2em;
+}
+
+.vote-button{
+    margin-left : 2em;
+    margin-bottom: 2em;
+}
+
+p.choixFormulaire{
+    display: inline;
+}
+
+#erreurConnection
+{
+    margin-top: 60px;
+    background-color: #e4e4e4;
+    text-align: center;
+    color: red;
+}

@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "nom": "oui",
+        "CID": "tom",
+        "question": "oui",
+        "nbrVotant": 6,
+        "dateFin": "2024-04-20",
+        "methodeVote": "false",
+        "Choix": [
+            "oui",
+            "non"
+        ],
+        "votants": [
+            {
+                "nom": "tom",
+                "nombre de vote fait": 0,
+                "nombre de vote au total": 1
+            },
+            {
+                "nom": "ryan",
+                "nombre de vote fait": 0,
+                "nombre de vote au total": 1
+            },
+            {
+                "nom": "ayoub",
+                "nombre de vote fait": 0,
+                "nombre de vote au total": 1
+            },
+            {
+                "nom": "safir",
+                "nombre de vote fait": 0,
+                "nombre de vote au total": 1
+            },
+            {
+                "nom": "yousra",
+                "nombre de vote fait": 0,
+                "nombre de vote au total": 1
+            },
+            {
+                "nom": "mathias",
+                "nombre de vote fait": 0,
+                "nombre de vote au total": 1
+            }
+        ],
+        "public_key": "-----BEGIN PUBLIC KEY-----\nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCwzTuopI3crzHsPRBESFHWBJLO\na3LPELetD1wDp7ldH9c1CpgxSDPQy5RjPPj+e\/fh6n63jylGLf2jyj7V7GbsBUAT\nq5T\/zdq6zqeQ97YnUalP7VeRPVLkxP4o\/VD1iJA9ympBEGBLGsiDSBx4JFomCKwW\nMVNn9ppqRAvoFxBIUwIDAQAB\n-----END PUBLIC KEY-----",
+        "resultat": []
+    }
+]

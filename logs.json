@@ -1,0 +1,92 @@
+[
+    {
+        "uid": "tom",
+        "password": "$2y$10$5HOXFCQVw59mCbkBmRWWheN.EIc9af1rzJ4mGVNAwYVkhgt.jIsYK",
+        "group": "Info"
+    },
+    {
+        "uid": "ryan",
+        "password": "$2y$10$mCdbLHtHxA15\/Sem2xg5Xey48V3q\/Xz6naV2EU\/v8hrUkGf.hzJ2C",
+        "group": "Info"
+    },
+    {
+        "uid": "ayoub",
+        "password": "$2y$10$Om00jVBG5Bzs5mMrTMqIe.z1x5Oy.jyY6LvO1lfAr3QKlIjo.xe0m",
+        "group": "Info"
+    },
+    {
+        "uid": "safir",
+        "password": "$2y$10$hi9L3pQ7EKwnJCiDI79ZgeL0JBHgmngxpFFvSVDnETVb82UckniHm",
+        "group": "Info"
+    },
+    {
+        "uid": "yousra",
+        "password": "$2y$10$8.vY9iozufHDVlRJRyenI.QbmepaQJLU8TCQLpLh27ggjujuVuGXS",
+        "group": "Info"
+    },
+    {
+        "uid": "mathias",
+        "password": "$2y$10$8LZaqz26W7CjAgDojxWGoe.O48klyCFFnKgBQvwCfS7WurDTpSReq",
+        "group": "Info"
+    },
+    {
+        "uid": "david",
+        "password": "$2y$10$T7zcLEM\/qTCK8EfDM28hgOHbOKAsZUYFmhmQx2TFHNVFAcFvZf7ZK",
+        "group": "Enseignant"
+    },
+    {
+        "uid": "frederic",
+        "password": "$2y$10$47NGCFE3eJemrGzjB9ee6eJDBg0NmSAgCuAuoFTBMm7s1ef9merrK",
+        "group": "Enseignant"
+    },
+    {
+        "uid": "julien",
+        "password": "$2y$10$yHFuXD6O0W.qYVKZq0H4ZeeOCVVcQJiM.OpKax2zTidb6MRCplNQK",
+        "group": "MIAGE"
+    },
+    {
+        "uid": "marie",
+        "password": "$2y$10$r6nqDDgB3H7d6e2yvifDOODS1AdjYl.2msPXWNboFp9x3DQDqpT4i",
+        "group": "MIAGE"
+    },
+    {
+        "uid": "antoine",
+        "password": "$2y$10$3R2nzg6KY4BYtb8OQjRXZOcxTQxjHJBoBEa\/PK0vZeLQ6hCl\/H3kC",
+        "group": "MIAGE"
+    },
+    {
+        "uid": "francis",
+        "password": "$2y$10$BIJAuEuDyngsB9RUKUJ3Q.BNdS\/\/8v3P.uGjV.NNs9jwaU38vUt5y",
+        "group": "Etudiants"
+    },
+    {
+        "uid": "clementine",
+        "password": "$2y$10$vCPRb8HFH3yvIZ\/H7OrdSOh4Q7AIzLuOrbMcyMckBcO2yqjCJD5T6",
+        "group": "Etudiants"
+    },
+    {
+        "uid": "arbre",
+        "password": "$2y$10$WX8SbHnCBMYWo9IffgB7Suby9xCZOrTIX1C7L76BrX2U35MdBr7gu",
+        "group": "Etudiants"
+    },
+    {
+        "uid": "pierre",
+        "password": "$2y$10$w\/k6eLwvkyBw2Qm9.BJmLea\/XEiN1cmt0PlGSWB\/PEKIxg0hudRtS",
+        "group": "Autres"
+    },
+    {
+        "uid": "paul",
+        "password": "$2y$10$6fN92yi87JpDv1lnPI61A.rHwOXHoylxgeGg\/mTHF8sdmLtIWR7k6",
+        "group": "Autres"
+    },
+    {
+        "uid": "jacques",
+        "password": "$2y$10$3q78E8O4x9qIbW7LnS9EEusj7HLAekczz2VNkiSy\/HtUH4wHZ0\/f.",
+        "group": "Autres"
+    },
+    {
+        "uid": "admin",
+        "password": "$2y$10$LfmCaCiDXJwbpXCfgYYo1.p6kvPkEGBCB2PxK7YL3cyS38B5j676u",
+        "group": "Autres"
+    }
+]
